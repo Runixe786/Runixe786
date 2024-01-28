@@ -39,7 +39,7 @@
 <br>
 
 <p>
-  <a href="https://github.com/runixe786/Macified-Windows"><img src="https://i.postimg.cc/SsDrqKTR/ZCARD.png" height="200px" align="left"></a>
+  <a href="https://github.com/runixe786/Macified-Windows"><img src="assets/IMG_6971.PNG" height="200px" align="left"></a>
   <h1>Macified Windows</h1>
   💳 Now achieve MacOS look on your windows desktop using my guides.
   <br><br>
@@ -51,9 +51,10 @@
 </p>
 
 <br>
+<br>
 
 <p>
-  <a href="https://github.com/runixe786/Tunify"><img src="https://i.postimg.cc/GtzzX3ct/MARKDOWNBADGES.png" height="200px" align="left"></a>
+  <a href="https://github.com/runixe786/Tunify"><img src="assets/IMG_6973.PNG" height="200px" align="left"></a>
   <h1>Tunify</h1>
   🏅 Script to auto update your spotify status of what you are currently listening on telegram.
   <br><br>
