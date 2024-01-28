@@ -2,7 +2,6 @@
 
 <p align="center">
 
-  <img src="https://m3-markdown-badges.vercel.app/stars/6/2/runixe786/Macified-Windows">
   
   <a href="https://github.com/runixe786">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg">
@@ -23,11 +22,9 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/BuyMeACoffee/buymeacoffee3.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PayPal/paypal1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sponsor/sponsor1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Chrome/chrome2.svg">
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Heroku/heroku2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
