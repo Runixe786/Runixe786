@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/7Y0M9ZmH/HEADERPROFILE.png">  
+<img src="assets/IMG_6969.PNG">  
 
 <p align="center">
 
