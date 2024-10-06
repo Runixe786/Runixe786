@@ -62,6 +62,20 @@
 <br>
 
 <p>
+  <a href="https://github.com/runixe786/MD3-Windows"><img src="assets/md3.png" height="200px" align="left"></a>
+  <h1>MD3 Windows</h1>
+  🪟Material you widgets now on windows homescreen.
+  <br><br>
+  <p>
+    <img src="https://m3-markdown-badges.vercel.app/stars/9/2/runixe786/MD3-Windows">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows2.svg">
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg">
+  </p>
+</p>
+<br>
+<br>
+
+<p>
   <a href="https://github.com/runixe786/Macified-Windows"><img src="assets/IMG_6971.PNG" height="200px" align="left"></a>
   <h1>Macified Windows</h1>
   💳 Now achieve MacOS look on your windows desktop using my guides.
