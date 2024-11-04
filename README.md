@@ -45,7 +45,9 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg">
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Runixe786&label=Profile%20Views&color=0&icon=0&pretty=false" />
+</a>
   # Support me
 <p align="center">
 
