@@ -45,9 +45,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dribble/dribble1.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator2.svg">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg">
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Runixe786&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
+
 
   # Support me
 <p align="center">
@@ -94,17 +92,14 @@
 <br>
 
 <p>
-  <a href="https://github.com/runixe786/Tunify"><img src="assets/IMG_6973.PNG" height="200px" align="left"></a>
-  <h1>Tunify</h1>
-  🏅 Script to auto update your spotify status of what you are currently listening on telegram.
+  <a href="https://github.com/runixe786/NThing-UI"><img src="assets/NThing UI.PNG" height="200px" align="left"></a>
+  <h1>NThing UI</h1>
+  🏅 Give your Windows desktop a clean NothingOS inspired look.
   <br><br>
   <p>
-    <img src="https://m3-markdown-badges.vercel.app/stars/9/1/runixe786/Tunify">
+    <img src="https://m3-markdown-badges.vercel.app/stars/9/1/runixe786/NThing-UI">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg">
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows/windows1.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg">
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg">
   </p>
 </p>
 
